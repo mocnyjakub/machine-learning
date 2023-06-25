@@ -3,3 +3,7 @@ This machine learning project focuses on analyzing Bitcoin prices over several y
 
 Project Overview
 The project leverages machine learning techniques and statistical analysis to explore and interpret Bitcoin price data. By analyzing historical price patterns, the project aims to identify correlations, trends, and factors that influence Bitcoin's value. The project utilizes a combination of data preprocessing, feature engineering, and predictive modeling to accomplish these goals.
+
+
+DATASET: BITCOIN HISTORICAL DATA
+https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
